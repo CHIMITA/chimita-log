@@ -8,7 +8,6 @@ const CONFIG = {
     email: "chimita16@swu.ac.kr",
     linkedin: "jiwon-park-1b004b291",
     github: "CHIMITA",
-    instagram: "chimita_____",
   },
   projects: [
     {
