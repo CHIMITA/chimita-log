@@ -11,8 +11,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `chimita-log`,
-      href: "https://github.com/CHIMITA/chimita-log",
+      name: `old-log`,
+      href: "https://chimita16.tistory.com/",
     },
   ],
   // blog setting (required)
